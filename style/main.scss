@@ -11,11 +11,11 @@ $legend-border-radius: 2px;
 
 $mobile-threshold: $field-width + 20px;
 
-$text-color: #4D2523;
-$bright-text-color: #FFF;
-$points-text-color: #3C1B1A;
+$text-color: #FE0000;
+$bright-text-color: #FE0000;
+$points-text-color: #FE0000;
 
-$tile-color: #FFF;
+$tile-color: #FEFEFE;
 $tile-gold-color: #582E74;
 /* $tile-gold-glow-color: lighten($tile-gold-color, 15%); */
 $tile-gold-glow-color: rgb(0,0,255);
@@ -23,7 +23,7 @@ $tile-gold-glow-color: rgb(0,0,255);
 $mix-perc: 75%;
 
 $game-container-margin-top: 11px;
-$game-container-background: #F67098;
+$game-container-background: #FEFEFE;
 
 $transition-speed: 100ms;
 
